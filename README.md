@@ -234,3 +234,6 @@ This repository serves as the official landing page for Iron Blade: Medieval Leg
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Iron Blade: Medieval Legends RPG today!**
+
+---
+**Last updated:** 2026-09-11 23:48:28 UTC
