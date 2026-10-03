@@ -236,4 +236,4 @@ This repository serves as the official landing page for Iron Blade: Medieval Leg
 **Get the most recent version of Iron Blade: Medieval Legends RPG today!**
 
 ---
-**Last updated:** 2026-10-03 20:28:23 UTC
+**Last updated:** 2026-10-03 23:27:52 UTC
